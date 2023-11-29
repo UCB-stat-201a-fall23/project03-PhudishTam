@@ -1,5 +1,5 @@
 ---
-title: "Solution to HW1"
+title: "Solution to HW3"
 author: "Phudish Prateepamornkul"
 format: pdf
 editor: visual
